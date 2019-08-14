@@ -38,14 +38,14 @@ TIFF IMAGE MANIPULATION USING Python Imaging Library(PIL) PILLOW
   Python Imaging Library Pillow 4.0
 
 #Packages:
-  Cycler 0.10.0
-  Pytz 2017.2 
-  Markdown 2.6.8 	
-  Requests 2.13.0 
-  Matplotlib 2.0.0
-  Six 1.10.0
-  Olefile 0.44	 	
-  Pillow 4.0.0  
-  Numpy 1.12.1 
-  Pyparsing 2.2.0
-  Python-dateutil  2.6.0
+  Cycler 0.10.0, 
+  Pytz 2017.2,  
+  Markdown 2.6.8,  	
+  Requests 2.13.0,  
+  Matplotlib 2.0.0, 
+  Six 1.10.0, 
+  Olefile 0.44, 	 	
+  Pillow 4.0.0,   
+  Numpy 1.12.1,  
+  Pyparsing 2.2.0, 
+  Python-dateutil  2.6.0.
